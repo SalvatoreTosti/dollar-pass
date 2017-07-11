@@ -1,36 +1,19 @@
 # dollar-pass
 
-FIXME: description
+A "dollar passing" problem simulator based on ![this article](http://www.decisionsciencenews.com/2017/06/19/counterintuitive-problem-everyone-room-keeps-giving-dollars-random-others-youll-never-guess-happens-next/).
 
 ## Installation
 
-Download from http://example.com/FIXME.
-
 ## Usage
-
-FIXME: explanation
 
     $ java -jar dollar-pass-0.1.0-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
-
 ## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 Salvatore Tosti
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License.
